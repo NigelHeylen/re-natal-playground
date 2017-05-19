@@ -1,6 +1,4 @@
- (ns env.ios.main
+(ns env.ios.main
   (:require [playground.ios.core :as core]))
 
- (core/init)
-
-
+(core/init)

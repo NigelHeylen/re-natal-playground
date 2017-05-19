@@ -1,6 +1,6 @@
 {
   "name": "Playground",
-  "interface": "reagent6",
+  "interface": "om-next",
   "androidHost": "localhost",
   "iosHost": "localhost",
   "envRoots": {
